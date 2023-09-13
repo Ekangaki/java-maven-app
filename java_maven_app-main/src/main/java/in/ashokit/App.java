@@ -1,4 +1,4 @@
-package in.ashokit;
+package ekangaki.njang;
 
 /**
  * Hello world!
